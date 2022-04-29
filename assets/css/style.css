@@ -1,0 +1,30 @@
+html{
+    overflow-x: hidden;
+}
+#corps{
+    min-height: 94Vh !important;
+    overflow-x: hidden;
+}
+.form-input{
+    width: 33% !important;
+    display: inline-block;
+}
+
+#liste-vente{
+    margin-right: 10px !important;
+}
+
+#calculatrice{
+    margin-left: 10px !important;
+}
+
+#qnte{
+   text-align: right !important;
+}
+.calc-pave{
+   display: grid;
+}
+.button-calc{
+   width: 23% !important;
+   height: 100% !important;
+}
